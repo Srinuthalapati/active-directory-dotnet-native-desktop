@@ -22,7 +22,7 @@
  * NUGET: END LICENSE TEXT */
 
 /*!
- * Modernizr v2.6.2
+ * Modernizr v2.7.2
  * www.modernizr.com
  *
  * Copyright (c) Faruk Ates, Paul Irish, Alex Sexton
@@ -47,7 +47,7 @@
 
 window.Modernizr = (function( window, document, undefined ) {
 
-    var version = '2.6.2',
+    var version = '2.7.2',
 
     Modernizr = {},
 
